@@ -50,7 +50,7 @@ global.alive =`Hello i am alive now
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+global.welcome = hi `
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
